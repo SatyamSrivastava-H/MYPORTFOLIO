@@ -1,6 +1,6 @@
  /* ══════════════════════════════════════
    SATYAM SRIVASTAVA — PORTFOLIO SCRIPTS
-   script.js
+   Script.js
 ══════════════════════════════════════ */
 
 /* ── 1. CURSOR GLOW ── */
